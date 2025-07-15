@@ -188,7 +188,7 @@ MSc Data Science | AI Enthusiast | Python Developer
 
 ## 📝 License
 
-This project is licensed under the [LICENSE](https://github.com/Balashanmugam-rathinam/VerifyMeAI/blob/main/LICENSE.txt).  
+This project is licensed under the [LICENSE](LICENSE).  
 You are free to use, modify, and distribute this code for personal or commercial use.
 
 ---
