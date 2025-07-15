@@ -181,14 +181,14 @@ with mp_hands.Hands() as hands:
 
 **Balashanmugam**  
 MSc Data Science | AI Enthusiast | Python Developer  
-📧 balashanmugamrathinam.com  
+📧 balashanmugamrathinam@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/balashanmugamr/)
 
 ---
 
 ## 📝 License
 
-This project is licensed under the [](LICENSE).  
+This project is licensed under the [LICENSE](LICENSE).  
 You are free to use, modify, and distribute this code for personal or commercial use.
 
 ---
