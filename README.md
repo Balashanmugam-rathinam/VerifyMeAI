@@ -188,7 +188,7 @@ MSc Data Science | AI Enthusiast | Python Developer
 
 ## 📝 License
 
-This project is licensed under the [MIT License](./LICENSE).  
+This project is licensed under the LICENSE).  
 You are free to use, modify, and distribute this code for personal or commercial use.
 
 ---
